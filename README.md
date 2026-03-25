@@ -4,13 +4,12 @@
 <h4 font-size="20" align="center">A passionate Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
 
-<h1 align="center"><a href="https://drive.google.com/file/d/1E8tuQZY8AOCXafRsZw2T32h8AVxyL0Dp/view?usp=share_link">Resume</a></h1>
-
+<h1 align="center"><a href="https://drive.google.com/file/d/1gpYj0AW1SgOmWypoe2H9jTPL4oTUO44X/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></h1>
 <br>
 
-- 🌱 I’m currently working @ EL-Sewedy Electric as Software Engineer II / Full Stack Developer
+- 🌱 I’m currently working @ EL-Sewedy Electric as a **Software Engineer II / Full Stack Developer**
 
-- 🔭 I’m working as a Full Stack Developer, using Spring Boot and ReactJS
+- 🔭 I’m working as a **Full Stack Developer, using Spring Boot and ReactJS**
 
 - 🕴🏻 I'm looking to excel my skills on real and challenging projects to improve my skills
 
